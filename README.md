@@ -1,2 +1,2 @@
-# AngryBirds7
-Making smoke dots and arrays
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
